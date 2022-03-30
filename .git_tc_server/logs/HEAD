@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 16e639c9a26b2f33de514dabeb6d8c97f242252a Ubuntu <ubuntu@node08.(none)> 1621517734 +0000	clone: from https://github.com/tinycubes/tc_server.git
+16e639c9a26b2f33de514dabeb6d8c97f242252a 478e7ee8a86ef89db4e0414715d12e70f40b9586 Ubuntu <ubuntu@node08.(none)> 1621518552 +0000	checkout: moving from main to server_ieee
+478e7ee8a86ef89db4e0414715d12e70f40b9586 cd97df4b716ef62d7dbbc3df07e878d48117d392 Ubuntu <ubuntu@node08.(none)> 1621518820 +0000	pull: Fast-forward
+cd97df4b716ef62d7dbbc3df07e878d48117d392 9d60d3066f486ff533ec476997137bcabd3a75b7 Ubuntu <ubuntu@node08.(none)> 1621519258 +0000	pull: Fast-forward
+9d60d3066f486ff533ec476997137bcabd3a75b7 1cc068c9e0a365c406cefe4039cbc236bf66b446 Ubuntu <ubuntu@node08.(none)> 1621519485 +0000	pull: Fast-forward
+1cc068c9e0a365c406cefe4039cbc236bf66b446 73ffd8f89918f06778430c2d745fc43fc75287c5 Ubuntu <ubuntu@node08.(none)> 1621519626 +0000	pull: Fast-forward
+73ffd8f89918f06778430c2d745fc43fc75287c5 65980a365d16601baa1cbe7d7e9bf61c8b185c1a Ubuntu <ubuntu@node08.(none)> 1628111822 +0000	pull: Fast-forward
+65980a365d16601baa1cbe7d7e9bf61c8b185c1a 16e639c9a26b2f33de514dabeb6d8c97f242252a Ubuntu <ubuntu@node08.(none)> 1628111838 +0000	checkout: moving from server_ieee to main
+16e639c9a26b2f33de514dabeb6d8c97f242252a e33ec73e4dbea83cedd2514a032271c75614ece0 nilsonld <nilson.uff.br@gmail.com> 1628255185 +0000	commit: prepare to fix timestamp
